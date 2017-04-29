@@ -2,6 +2,7 @@ import numpy as np
 import os
 from scipy import misc
 import time
+import sys
 
 # Paths
 ABS_PATH = os.path.dirname(os.path.realpath(__file__))
